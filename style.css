@@ -1,0 +1,43 @@
+
+
+
+#p1{
+    font-family:'Borel', cursive ;
+    font-style: italic;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 70px;
+
+}
+#p2{
+    font-family: 'Tilt Prism', cursive;
+    font-style: italic;
+    font-size: 32px;
+    font-weight: normal;
+    
+}
+#p3{
+    font-family: 'Handjet', cursive;
+    font-style: italic;
+    font-size: 32px;
+    font-weight: 900;
+    
+}
+.fa-youtube{
+    color: red;
+    font-size: 90px;
+}
+
+.fa-whatsapp{
+    color: green;
+    font-size: 90px;
+
+}
+.fa-apple{
+    color: red;
+    font-size: 90px;
+}
+.fa-wand-magic-spaekles{
+    color: green;
+    font-size: 90px;
+}
